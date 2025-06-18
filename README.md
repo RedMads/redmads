@@ -16,11 +16,8 @@ I enjoy building simple projects to learn, explore, and give back to the communi
 
 ## 📫 Contact Me
 
-<p align="left">
-    <img src="images/email.svg" alt="Email" height="30" width="40"/> 
-    <a href="mailto:redmad.dev@proton.me">redmad.dev@proton.me</a>
-  
-</p>
+- ✉️ : <a href="mailto:redmad.dev@proton.me">redmad.dev@proton.me</a>
+
 
 For secure communication or signature verification:
 
