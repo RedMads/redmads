@@ -5,8 +5,9 @@ Hello there! :wave: , im RedMad i like programming and build simple projects i h
 ## Contact us:
 
 <p align="left">
-<a href="mailto:redmads@protonmail.com" target="blank"><img align="center" src="images/email.svg" alt="redmads@protonmail.com" height="30" width="40"/></a>
+<a href="mailto:redmad.dev@proton.me" target="blank"><img align="center" src="images/email.svg" alt="redmad.dev@proton.me" height="30" width="40"/></a>
 </p>
+
 
 <!-- Languages icons !-->
 ## Languages:
