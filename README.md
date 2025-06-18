@@ -3,7 +3,7 @@
 I'm Redmad, a self-driven learner and open-source enthusiast.  
 I enjoy building simple projects to learn, explore, and give back to the community.
 
----
+<br>
 
 ## 🧠 Interests
 
@@ -12,7 +12,7 @@ I enjoy building simple projects to learn, explore, and give back to the communi
 - 🪙 Cryptocurrency & Web3  
 - 🧰 Linux | Automation | Networking
 
----
+<br>
 
 ## 📫 Contact Me
 
@@ -26,7 +26,7 @@ For secure communication or signature verification:
 
 - 🔑 **PGP Key:** [1E6E A760 7E95 38A5 EE45  FF24 7C72 BC92 D70F 78E2](https://raw.githubusercontent.com/RedMads/redmads/main/key.asc)
 
----
+<br>
 
 ## 🧰 Languages & Tools
 
@@ -42,7 +42,7 @@ For secure communication or signature verification:
   </a>
 </p>
 
----
+<br>
 
 ## 📊 GitHub Stats
 
@@ -62,7 +62,6 @@ For secure communication or signature verification:
   <img src="https://komarev.com/ghpvc/?username=redmads&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
 
 ## 🔏 Signed Profile
 
@@ -70,7 +69,8 @@ This profile is PGP-signed verify here:
 
 - 📄 : [README.md.asc](https://github.com/RedMads/redmads/blob/main/README.md.asc)
 
----
+
+<br>
 
 > "Give me six hours to chop down a tree and I will spend the first four debugging my code."
 > \-Redmad
